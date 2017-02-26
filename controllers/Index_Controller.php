@@ -15,7 +15,7 @@ class Index_Controller extends Controller
 	{
 		if($param == null)
 		{
-			$param = "Mundo Zeustring";
+			$param = "Zeustring Bienvenido a casa";
 		}
 		echo "hola ".$param;
 	}
